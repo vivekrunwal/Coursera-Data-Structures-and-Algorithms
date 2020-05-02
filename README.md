@@ -2,7 +2,7 @@
 # Algorithmic Toolbox
 Assignments for Algorithmic Toolbox on Coursera </br>
 
-<strong>Note:</strong> All of my assignments has been passed successfully. Below section will be updated soon.
+<strong>Note:</strong> All of my assignments has been passed successfully. Below section will be updated soon.Currently it is acquired from different user.
 
 ## Week 1
 ### Solving a Simple Code Problem
