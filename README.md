@@ -8,17 +8,17 @@ Assignments for Algorithmic Toolbox on Coursera </br>
 
 ### Solving a Simple Code Problem
 #### Programming Assignments:
-Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Maximum-Pairwise-Product.cpp)</br>
+Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Maximum%20Pair%20Wise%20Product)</br>
 
 ## Week 2
 ###  Prgramming Assignment: Introduction
-Problem: [Fibonacci Number](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Fibonacci%20Number.cpp) </br>
+Problem: [Fibonacci Number](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/FIbonacci%20Numbers.cpp) </br>
 Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_last_digit) </br>
-Problem: [Greatest Common Divisor](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/gcd.cpp) </br>
-Problem: [Least Common Multiple](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/LCM.cpp) </br>
-Problem: [Last Digit of the Sum of Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers.cpp) </br>
-Advanced Problem: [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers%20Again.cpp)</br>
-Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20digit%20of%20the%20Sum%20of%20Squares%20%20of%20Fibonacci%20Numbers.cpp)</br>
+Problem: [Greatest Common Divisor](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/gcd.cpp) </br>
+Problem: [Least Common Multiple](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/LCM.cpp) </br>
+Problem: [Last Digit of the Sum of Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers.cpp) </br>
+Advanced Problem: [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers%20Again.cpp)</br>
+Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/Last%20digit%20of%20the%20Sum%20of%20Squares%20of%20Fibonacci%20Numbers.cpp)</br>
 
 ## Week 3
 ###  Programming Assignment: Greedy Algorithms
