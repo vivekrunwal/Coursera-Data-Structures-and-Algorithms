@@ -12,7 +12,7 @@ Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data
 
 ## Week 2
 ###  Prgramming Assignment: Introduction
-Problem: [Small Fibonacci Number](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci) </br>
+Problem: [Fibonacci Number](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Fibonacci%20Number.cpp) </br>
 Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_last_digit) </br>
 Problem: [Greatest Common Divisor](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/gcd) </br>
 Problem: [Least Common Multiple](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/lcm) </br>
