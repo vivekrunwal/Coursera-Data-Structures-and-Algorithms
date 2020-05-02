@@ -2,14 +2,12 @@
 # Algorithmic Toolbox
 Assignments for Algorithmic Toolbox on Coursera </br>
 
-<strong>Note:</strong> All of my assignments has been passed successfully. Below section will be updated soon.Currently it is acquired from different user.
+<strong>Note:</strong> All of my assignments has been submitted successfully. Below section will be updated soon.Currently it is acquired from different user.
 
 ## Week 1
-### Solving a Simple Code Problem
-Prgramming Assignment: [A plus B](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%201/AplusB)
 
-### Solving a More Challenging Code Problem
-Programming Assignments: [Maximum Pairwise Product](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%201/MaxPairwiseProduct), [Stress Testing](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%201/StressTest)
+### Solving a Simple Code Problem
+#### Programming Assignments: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Maximum-Pairwise-Product.cpp)</br>
 
 ## Week 2
 ###  Prgramming Assignment: Introduction
