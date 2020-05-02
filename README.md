@@ -14,9 +14,10 @@ Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data
 ###  Prgramming Assignment: Introduction
 Problem: [Fibonacci Number](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Fibonacci%20Number.cpp) </br>
 Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_last_digit) </br>
-Problem: [Greatest Common Divisor](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/gcd) </br>
-Problem: [Least Common Multiple](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/lcm) </br>
-Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_huge) </br>
+Problem: [Greatest Common Divisor](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/gcd.cpp) </br>
+Problem: [Least Common Multiple](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/LCM.cpp) </br>
+Advanced Problem: [Huge Fibonacci Number modulo m](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%202/fibonacci_huge)</br>
+Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers.cpp)</br>
 
 ## Week 3
 ###  Programming Assignment: Greedy Algorithms
