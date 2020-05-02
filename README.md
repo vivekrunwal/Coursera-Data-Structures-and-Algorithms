@@ -23,11 +23,13 @@ Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https
 
 ## Week 3
 ###  Programming Assignment: Greedy Algorithms
-Problem: [Changing Money](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/change) </br>
-Problem: [Fractional Knapsack](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/fractional_knapsack) </br>
-Problem: [Minimum Dot Product](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/dot_product) </br>
-Problem: [Covering Segments by Points](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/covering_segments) </br>
-Problem: [Pairwise Distinct Summands](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%203/different_summands) </br>
+Problem: [Money Change](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Money%20Change.cpp) </br>
+Problem: [Maximum Value of the Loot](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Value%20of%20Loot.cpp) </br>
+Problem: [Car Fueling](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Car%20Fueling.cpp) </br>
+Problem: [Maximum Advertisement Revenue](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Advertisement%20Revenue%20(Maximum%20Dot%20Product).cpp) </br>
+Problem: [Collecting Signatures](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Collecting%20Signatures%20(Covering%20Segments%20by%20Points).cpp) </br>
+Problem: [Maximum Number of Prizes](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Number%20of%20Prizes%20(Different%20Summands).cpp) </br>
+Problem: [Maximum Salary](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Salary.cpp) </br>
 
 ## Week 4
 ###  Programming Assignment: Divide and Conquer
