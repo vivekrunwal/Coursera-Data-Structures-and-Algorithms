@@ -17,7 +17,7 @@ Problem: [The Last Digit of a Large Fibonacci Number](https://github.com/akueisa
 Problem: [Greatest Common Divisor](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/gcd.cpp) </br>
 Problem: [Least Common Multiple](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/LCM.cpp) </br>
 Advanced Problem: [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers%20Again.cpp)</br>
-Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers.cpp)</br>
+Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Last%20digit%20of%20the%20Sum%20of%20Squares%20%20of%20Fibonacci%20Numbers.cpp)</br>
 
 ## Week 3
 ###  Programming Assignment: Greedy Algorithms
