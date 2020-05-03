@@ -33,7 +33,6 @@ Problem: [Maximum Salary](https://github.com/vivekrunwal/Coursera-Data-Structure
 
 ## Week 4
 ###  Programming Assignment: Divide and Conquer
-Problem: [Binary Search](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/binary_search) </br>
 Problem: [Majority Element](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Majority%20Element.cpp) </br>
 Problem: [Improvised Quick Sort](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Improved%20Quick%20Sort.cpp) </br>
 Advanced Problem: [Number of Inversions](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Inversions.cpp) </br>
