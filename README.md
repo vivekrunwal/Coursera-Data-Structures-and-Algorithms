@@ -34,10 +34,11 @@ Problem: [Maximum Salary](https://github.com/vivekrunwal/Coursera-Data-Structure
 ## Week 4
 ###  Programming Assignment: Divide and Conquer
 Problem: [Binary Search](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/binary_search) </br>
-Problem: [Majority Element](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/majority_element) </br>
-Problem: [3-Way Partition](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/sorting) </br>
-Advanced Problem: [Number of Inversions](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/inversions) </br>
-Advanced Problem: [Points and Segments](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%204/points_and_segments) </br>
+Problem: [Majority Element](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Majority%20Element.cpp) </br>
+Problem: [Improvised Quick Sort](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Improved%20Quick%20Sort.cpp) </br>
+Advanced Problem: [Number of Inversions](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Inversions.cpp) </br>
+Advanced Problem: [Organizing a Lottery](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Lottery.cpp) </br>
+Advanced Problem: [Closest Points](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Closest%20Point.cpp) </br>
 
 ## Week 5
 ### Programming Assignment: Dynamic Programming
