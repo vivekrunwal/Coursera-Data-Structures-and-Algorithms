@@ -2,7 +2,7 @@
 # Algorithmic Toolbox
 Assignments for Algorithmic Toolbox on Coursera </br>
 
-<strong>Note:</strong> All of my assignments has been submitted successfully. Below section will be updated soon.Currently it is acquired from different user.
+<strong>Note:</strong> All of my assignments has been submitted successfully. Below section(*) will be updated soon.Currently it is acquired from different user.
 
 ## Week 1
 
@@ -41,7 +41,7 @@ Advanced Problem: [Organizing a Lottery](https://github.com/vivekrunwal/Coursera
 Advanced Problem: [Closest Points](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Closest%20Point.cpp) </br>
 
 ## Week 5
-### Programming Assignment: Dynamic Programming
+### Programming Assignment: Dynamic Programming(*)
 Problem: [Primitive Calculator](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/primitive_calculator) </br>
 Problem: [Take as Much Gold as Possible](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/knapsack) </br>
 Problem: [Compute the Edit Distance Between Two Strings](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/edit_distance) </br>
