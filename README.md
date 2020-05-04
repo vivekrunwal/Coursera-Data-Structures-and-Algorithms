@@ -10,7 +10,7 @@ Assignments for Algorithmic Toolbox on Coursera </br>
 #### Programming Assignments:</br>
 Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Maximum%20Pair%20Wise%20Product)</br>
 
-## Week 2
+## [Week 2](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/week2_algorithmic_warmup.pdf)</br>
 ###  Prgramming Assignment: Introduction
 Problem: [Fibonacci Number](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/FIbonacci%20Numbers.cpp) </br>
 Problem: [Fibonacci Numbers Again](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/Fibonacci%20Number%20Again.cpp) </br>
@@ -21,7 +21,7 @@ Problem: [Last Digit of the Sum of Fibonacci Numbers](https://github.com/vivekru
 Advanced Problem: [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers%20Again.cpp)</br>
 Advanced Problem: [Last digit of the sum of Squares of  Fibonacci Numbers](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/Last%20digit%20of%20the%20Sum%20of%20Squares%20of%20Fibonacci%20Numbers.cpp)</br>
 
-## Week 3
+## [Week 3](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/week3_greedy_algorithms.pdf)</br>
 ###  Programming Assignment: Greedy Algorithms
 Problem: [Money Change](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Money%20Change.cpp) </br>
 Problem: [Maximum Value of the Loot](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Value%20of%20Loot.cpp) </br>
@@ -31,7 +31,7 @@ Problem: [Collecting Signatures](https://github.com/vivekrunwal/Coursera-Data-St
 Problem: [Maximum Number of Prizes](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Number%20of%20Prizes%20(Different%20Summands).cpp) </br>
 Problem: [Maximum Salary](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%203/Maximum%20Salary.cpp) </br>
 
-## Week 4
+## [Week 4](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/week4_divide_and_conquer.pdf)</br>
 ###  Programming Assignment: Divide and Conquer
 Problem: [Majority Element](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Majority%20Element.cpp) </br>
 Problem: [Improvised Quick Sort](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Improved%20Quick%20Sort.cpp) </br>
