@@ -8,7 +8,7 @@ Assignments for Algorithmic Toolbox on Coursera </br>
 
 ### Solving a Simple Code Problem
 #### Programming Assignments:</br>
-Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Maximum%20Pair%20Wise%20Product)</br>
+Problem: [Maximum Pairwise Product](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/Maximum%20Pair%20Product.cpp)</br>
 
 ## [Week 2](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%202/week2_algorithmic_warmup.pdf)</br>
 ###  Prgramming Assignment: Introduction
