@@ -2,7 +2,7 @@
 # Algorithmic Toolbox
 Assignments for Algorithmic Toolbox on Coursera </br>
 
-<strong>Note:</strong> All of my assignments has been submitted successfully. Below section(*) will be updated soon.Currently it is acquired from different user.
+<strong>Note:</strong> All of my assignments has been submitted successfully. 
 
 ## [Week 1](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%201/week1_programming_challenges.pdf)</br>
 
@@ -44,5 +44,5 @@ Advanced Problem: [Closest Points](https://github.com/vivekrunwal/Coursera-Data-
 Problem: [Primitive Calculator](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Primitive%20Calculator.cpp) </br>
 Problem: [Money Change Problem](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Money%20Change.cpp) </br>
 Problem: [Compute the Edit Distance Between Two Strings](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Edit%20Distance.cpp) </br>
-Problem: [Longest Common Subsequence of Three Sequences](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Longest%20Common%20Subsequence%20of%20Two%20Sequence.cpp) </br>
+Problem: [Longest Common Subsequence of Two Sequences](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Longest%20Common%20Subsequence%20of%20Two%20Sequence.cpp) </br>
 Advanced Problem: [Longest Common Subsequence of Three Sequences](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/lcs3.cpp) </br>
