@@ -39,10 +39,10 @@ Advanced Problem: [Number of Inversions](https://github.com/vivekrunwal/Coursera
 Advanced Problem: [Organizing a Lottery](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Lottery.cpp) </br>
 Advanced Problem: [Closest Points](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%204/Closest%20Point.cpp) </br>
 
-## Week 5
+## [Week 5](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/week5_dynamic_programming1.pdf)
 ### Programming Assignment: Dynamic Programming(*)
-Problem: [Primitive Calculator](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/primitive_calculator) </br>
-Problem: [Take as Much Gold as Possible](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/knapsack) </br>
-Problem: [Compute the Edit Distance Between Two Strings](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/edit_distance) </br>
-Problem: [Maximize the Value of an Arithmetic Expression](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/placing_parentheses) </br>
-Advanced Problem: [Longest Common Subsequence of Three Sequences](https://github.com/akueisara/algorithmic-toolbox/tree/master/week%205/lcs3) </br>
+Problem: [Primitive Calculator](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Primitive%20Calculator.cpp) </br>
+Problem: [Money Change Problem](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Money%20Change.cpp) </br>
+Problem: [Compute the Edit Distance Between Two Strings](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Edit%20Distance.cpp) </br>
+Problem: [Longest Common Subsequence of Three Sequences](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/Longest%20Common%20Subsequence%20of%20Two%20Sequence.cpp) </br>
+Advanced Problem: [Longest Common Subsequence of Three Sequences](https://github.com/vivekrunwal/Coursera-Data-Structures-and-Algorithms/blob/master/Algorithmic-Toolbox/Week%205/lcs3.cpp) </br>
