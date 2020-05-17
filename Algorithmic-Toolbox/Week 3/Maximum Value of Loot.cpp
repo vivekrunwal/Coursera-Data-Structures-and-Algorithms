@@ -38,7 +38,6 @@ double get_optimal_value(double capacity, vector<double> weights, vector<double>
         a = min(weights[ind],capacity);
         value+=a*values[ind]*1.0/weights[ind];
         weights[ind]-=a;
-        A[ind]-=a;
         capacity-=a;
     }
    
